@@ -20,6 +20,10 @@ nav > ul > li {
   padding: 15px;
   list-style-type: none;
 }
+nav:any-link {
+  font-style: none;
+  color: black;
+}
 .select-main {
   background-color: white;
   border: 2px;
