@@ -3,7 +3,13 @@
   padding: 0px;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
-
+*:link,
+*:visited,
+*:hover,
+*:active {
+  text-decoration: none;
+  color: black;
+}
 .logo {
   grid-row: 1;
   grid-column: 1;
